@@ -24,6 +24,7 @@ public class Test1
 		System.out.println(title);
 		Assert.assertEquals(title, "Dashboard [Jenkins]");
 		System.out.println(title);
+		System.out.println(title);
 		
 		
 	}
